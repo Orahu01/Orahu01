@@ -1,8 +1,8 @@
 # Hi there, I'm おらふ
 
-WEB/Minecraft/Software etc..
+### WEB/Minecraft/Software etc..
 ---
-Use→ClaudeCode/Antigravity
+### Use→ClaudeCode/Antigravity
 ---
 [![Website](https://img.shields.io/badge/Website-awayserver.com-555555?style=flat-square&logo=google-chrome&logoColor=white)](https://awayserver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Orahu01-181717?style=flat-square&logo=github)](https://github.com/Orahu01)
