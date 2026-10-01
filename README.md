@@ -1,7 +1,9 @@
 # Hi there, I'm おらふ
 
-Web開発やMinecraftサーバー・プラグイン開発などを中心に活動しています。
-
+WEB/Minecraft/Software etc..
+---
+Use→ClaudeCode/Antigravity
+---
 [![Website](https://img.shields.io/badge/Website-awayserver.com-555555?style=flat-square&logo=google-chrome&logoColor=white)](https://awayserver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Orahu01-181717?style=flat-square&logo=github)](https://github.com/Orahu01)
 
@@ -22,8 +24,9 @@ Web開発やMinecraftサーバー・プラグイン開発などを中心に活�
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **awayserver.com** | 個人運営のWebサイト・サーバーインフラ | [Site](https://awayserver.com) |
-| **Minecraft Project** | 自作プラグイン・サーバー開発関連 | [Repo](https://github.com/Orahu01) |
+| **awayserver.com** | WebSite-Vlog | [Site](https://awayserver.com) |
+| **Study.awayserver.com** | WebSite-Study | [Site](https://study.awayserver.com) |
+| **Minecraft Project** | Software| [Repo](https://github.com/Orahu01) |
 
 ---
 
