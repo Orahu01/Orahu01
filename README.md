@@ -13,6 +13,9 @@
 <a href="https://awayserver.com">
   <img src="https://img.shields.io/badge/WEB-awayserver.com-000000?style=for-the-badge&logo=cloudflare&logoColor=00E5FF" alt="awayserver.com"/>
 </a>
+<a href="https://study.awayserver.com">
+  <img src="https://img.shields.io/badge/STUDY-study.awayserver.com-000000?style=for-the-badge&logo=readthedocs&logoColor=38bdf8" alt="study.awayserver.com"/>
+</a>
 <a href="https://orahu01.github.io/aerowidget/">
   <img src="https://img.shields.io/badge/APP-AeroWidget-000000?style=for-the-badge&logo=electron&logoColor=47848F" alt="AeroWidget"/>
 </a>
@@ -67,7 +70,15 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td valign="top">
+      <h3>📚 <a href="https://study.awayserver.com">study.awayserver.com</a></h3>
+      <p>高校の<b>数学・物理・化学・国語・英語・公共</b>を無料で学べる学習サイトのネットワーク。前提知識へのリンクと、基本から応用までの例題つき。</p>
+      <p>
+        <img src="https://img.shields.io/badge/6%E6%95%99%E7%A7%91-38bdf8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/%E7%84%A1%E6%96%99-22c55e?style=flat-square"/>
+      </p>
+    </td>
+    <td valign="top">
       <h3>🌐 <a href="https://awayserver.com">awayserver.com</a></h3>
       <p>自分のサイト / ブログ。Web と Minecraft まわりの発信と実験の場所。</p>
     </td>
